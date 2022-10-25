@@ -41,4 +41,4 @@
 
 ## Credits, and Thanks to Beloved Developers ;
 
-*SLADE(https://t.me/spryslade)
+* [S L A D E](https://t.me/spryslade)
